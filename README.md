@@ -9,7 +9,7 @@ Image
 
 Video 
 
-![](../../blob/master/composeApp/src/commonMain/resources/coil3sample.webm)
+![](../../blob/master/composeApp/src/commonMain/resources/video.gif)
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
 
